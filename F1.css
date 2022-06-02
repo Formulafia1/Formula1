@@ -58,3 +58,10 @@ body{
     position: relative;
     color: #666; 
 }
+#footer {
+    color: white;
+    grid-area: f;
+    padding: 30px;
+    text-align: center;
+    background-color: gray;
+}
